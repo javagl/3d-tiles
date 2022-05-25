@@ -47,4 +47,4 @@ Example section text
 
 ## Example subsection
 
-Example subsection text
+Example subsection text in MD
