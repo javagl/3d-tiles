@@ -48,3 +48,8 @@ Example section text
 == Example subsection
 
 Example subsection text in ADOC
+
+== Further subsection in ADOC
+
+Further subsection text in ADOC
+

@@ -10,3 +10,4 @@
 
 - `exampleWithBoth`:
   - [Link to subsection without file name](exampleWithBoth/#example-subsection)
+  - [Link to subsection that only exists in MD, without file name](exampleWithBoth/#further-subsection-in-md)
